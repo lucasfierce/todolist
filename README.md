@@ -35,10 +35,11 @@ Para consumo e acesso da aplicação, é recomendado o uso de apps como o API Do
 - Para a pesquisa, deve-se fazer a autenticação do usuário, utilizando o username e o password feitos no cadastro de usuário.
 
 #### Atualização de Tarefas -> PUT https://todolist-javaspring-rocket.onrender.com/tasks/ID-da-tarefa
--A atualização só pode ser feitos por usuário cadastrados.
--O usuário cadastrado não poderá alterar as tarefas criadas por outros usuários.
--Para acessar a tarefa a ser atualizada, deve-se inserir na URL o ID da tarefa, gerado no Cadastro de Tarefas.
--Para a atualização, deve-se fazer a autenticação do usuário, utilizando o username e o password feitos no cadastro de usuário.
+- A atualização só pode ser feitos por usuário cadastrados.
+- O usuário cadastrado não poderá alterar as tarefas criadas por outros usuários.
+- Para acessar a tarefa a ser atualizada, deve-se inserir na URL o ID da tarefa, gerado no Cadastro de Tarefas.
+- Para a atualização, deve-se fazer a autenticação do usuário, utilizando o username e o password feitos no cadastro de usuário.
+  
 
 ## Deploy
 
@@ -55,5 +56,5 @@ URL: https://todolist-javaspring-rocket.onrender.com
 
 ## Contato
 
--Github: (https://github.com/lucasfierce)
--Linkedin: (https://www.linkedin.com/in/lucas-santos-527a30174/)
+- Github: (https://github.com/lucasfierce)
+- Linkedin: (https://www.linkedin.com/in/lucas-santos-527a30174/)
